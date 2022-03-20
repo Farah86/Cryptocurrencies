@@ -11,8 +11,16 @@ what I used to accomplish this purpose :
 4.Visualizing Cryptocurrencies Results.
 
 # Results:
-1. Clustering Cryptocurrencies Using K-means (elbow -plot):
+1. Clustering Cryptocurrencies Using K-means (elbow curve -plot):
+
+![this is picture](https://github.com/Farah86/Cryptocurrencies/blob/main/results/curve%20elbow.png)
 
 
+2. Visualizing Cryptocurrencies (3D scatter) :
 
-3. Visualizing Cryptocurrencies Results:
+![this is picture](https://github.com/Farah86/Cryptocurrencies/blob/main/results/3Dscatter.png)
+
+
+3. hvplot:
+
+![this is picture](https://github.com/Farah86/Cryptocurrencies/blob/main/results/hvplot.png)
